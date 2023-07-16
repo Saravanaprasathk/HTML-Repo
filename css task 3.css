@@ -1,0 +1,21 @@
+input[type="text"],input[type="tel"],input[type="Email"],input[type="password"]{
+    width: 1000px;
+    padding: 10px;
+}
+body{
+    background-color: aquamarine;
+}
+textarea{
+    width: 1000px;
+    padding: 10px;
+}
+input[type="button"]{
+    width: 900px;
+    padding: 10px;
+    font-weight: 200px;
+    background-color: green;
+}
+
+
+
+
