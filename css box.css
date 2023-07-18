@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(236, 236, 236);
+    list-style: none;
+    display: flex;
+}
+.p1,.p2,.p3,.p4{
+    background-color: rgb(146, 202, 184);
+    width: 200px;
+    height: 200px;
+    margin-right: 5px;
+}
+.p2,.p3,.p4{
+    border: 20px solid rgb(92, 120, 146);
+
+}
+.p3,.p4{
+    padding: 20px;
+}
+.p4{
+    margin: 20px;
+}
