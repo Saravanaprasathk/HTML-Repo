@@ -1,0 +1,39 @@
+body{
+    background-image: radial-gradient(rgb(226, 160, 38),rgb(202, 105, 129),red);
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    padding-left: 880px;
+    position: absolute;
+    top: 0px;
+    color: white;
+    
+}
+h1{
+    color: white;
+}
+h2{
+    color: white;
+}
+p{
+    color: white;
+    width: 500px;
+}
+a{
+    text-decoration: none;
+    padding: 20px;
+    color: white;
+    
+}
+button{
+    height: 30px;
+    width: 150px;
+    border: none;
+    border-radius: 25px;
+    background-color: aliceblue;
+}
+div{
+    margin-left: 300px;
+    margin-top: 200px;
+}
