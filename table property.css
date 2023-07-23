@@ -1,0 +1,26 @@
+table,th,td{
+    border:1px solid black; 
+    padding: 20px;
+    border: none;
+    border-collapse: collapse;
+}
+.green{
+    background-color: grey;
+    color: white;
+}
+.column{
+    background-color: rgb(100, 148, 110);
+    color: white;
+
+}
+tr:nth-child(even) {
+    background: rgb(214, 199, 199);
+  }
+table{
+    width:100%;
+    text-align: center;
+}
+.parse{
+    background-color: rgb(194, 153, 194);
+    color: white;
+}
