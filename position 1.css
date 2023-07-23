@@ -1,0 +1,40 @@
+body{
+    background-image: radial-gradient(violet,indigo,blue,green,yellow,orange,rgba(196, 199, 194, 0.774));
+}
+.b{
+    background-color: aliceblue;
+    height: 350px;
+    width: 750px;
+    border-radius: 15%;
+    position: absolute;
+    top: 150px;
+    left: 250px;
+    
+}
+.c{
+    background-image: url("https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510_1280.jpg");
+    height: 180px;
+    width: 250px;
+    border-radius: 10px;
+    position: relative;
+    position: absolute;
+    bottom: 40%;
+    left: 12%;
+    
+}
+p{
+    overflow-y: scroll;
+    padding-left: 200px;
+    height: 150px;
+    word-spacing: 5px;
+    padding-top: 30px;
+    line-height: 50px;
+}
+h2{
+    padding-left: 180px;
+}
+.but{
+   position: absolute;
+   left: 27%;
+   bottom: 5%;
+}
