@@ -1,0 +1,89 @@
+body{
+    background-color: grey;
+}
+.Leftsidepage{
+    width: 44%;
+    height: 870px;
+    background-color: antiquewhite;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding: 30px;
+}
+.Tophead{
+    font-size: 85px;
+    text-decoration: overline solid 2px black;
+}
+.pseudo{
+    color: red;
+}
+.Day{
+    display: inline-flex;
+    position: absolute;
+    bottom: 63%;
+    background-color: gray;
+    width: 43%;
+    height: 6.5%;
+    
+}
+.date{
+    padding-left: 20px;
+}
+.content{
+    column-count: 3;
+    column-gap: 30px;
+    text-align: justify;
+    column-rule-style: solid;
+    column-rule-width: 2px;
+    column-rule-color: black;
+}
+.content2{
+    column-count: 3;
+    column-gap: 30px;
+    text-align: justify;
+    column-rule-style: solid;
+    column-rule-width: 2px;
+    column-rule-color: black;
+}
+.subhead1{
+    background-color: aqua;
+}
+
+/* <Next side of page> */
+
+.Rightpage{
+    position: absolute;
+    top: 0;
+    width: 44%;
+    height: 870px;
+    background-color: antiquewhite;
+    margin-left: 695px;
+    margin-top: 20px;
+    padding: 30px;
+}
+.subhead2{
+    text-decoration: overline solid 3px black;
+}
+.subtext{
+    list-style-type: none;
+    color: red;
+}
+.content3{
+    column-count: 3;
+    column-gap: 30px;
+    text-align: justify;
+    column-rule-style: solid;
+    column-rule-width: 2px;
+    column-rule-color: black;
+}
+p{
+    column-count: 2;
+    column-gap: 30px;
+    text-align: justify;
+    column-rule-style: solid;
+    column-rule-width: 2px;
+    column-rule-color: black;
+}
+.subhead4, .subhead5{
+    background-color: aqua;
+}
+
