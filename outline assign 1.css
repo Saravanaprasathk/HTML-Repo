@@ -1,0 +1,37 @@
+.table_content{
+    margin-left: 30%;
+    margin-top: 10%;
+    font-size: 50px;
+    border-spacing: 4dvw;
+
+}
+td{
+    padding: 30px;
+}
+.col_one{
+    outline:25px solid pink;
+}
+.col_two{
+    outline:15px dashed pink;
+}
+.col_three{
+    outline:15px dotted pink;
+}
+.col_four{
+    outline:15px double pink;
+}
+.col_five{
+    outline:15px groove pink;
+}
+.col_six{
+    outline:none;
+}
+.col_seven{
+    outline:15px ridge pink;
+}
+.col_eight{
+    outline:15px inset pink;
+}
+.col_nine{
+    outline:15px outset pink;
+}
