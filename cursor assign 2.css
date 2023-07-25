@@ -1,0 +1,41 @@
+.sectionOne{
+    background-color: darkblue;
+    color: aliceblue;
+    font-size: xx-large;
+    cursor: cell;
+}
+.sectionTwo{
+    background-image: url("https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700025431.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height:100vh;
+    cursor: wait;
+}
+ul{
+    display: flex;
+    color: white;
+    text-decoration: none;
+}
+li{
+    list-style-type: none;
+    margin-left: 100px;
+    padding: 50px;
+    font-size: xx-large;
+    cursor: grab;
+}
+.paraOne{
+    font-size: xx-large;
+    cursor: all-scroll;
+    background-color: rgb(60, 82, 74);
+    
+}
+p{
+    cursor: crosshair;
+    column-count: 2;
+    column-gap: 15px;
+    column-rule: solid 2px;
+    text-align: justify;
+    background-color: gray;
+    column-rule-color: blueviolet;
+    color: azure;
+}
