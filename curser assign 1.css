@@ -1,0 +1,69 @@
+body{
+    padding-left: 30px;
+    background-color: aqua;
+}
+.head{
+    background-color: aliceblue;
+}
+.notify{
+    text-decoration: underline solid 2px;
+    text-decoration-color: yellow;
+    font-size: 25px;
+}
+.alias {
+    cursor: alias;
+}
+.all-scroll {
+    cursor: all-scroll;
+}
+.auto {
+    cursor: auto;
+}
+.cell {
+    cursor: cell;
+}
+.col-resize {
+    cursor: col-resize;
+}
+.context-menu {
+    cursor: context-menu;
+}
+.copy {
+    cursor: copy;
+}
+.crosshair {
+    cursor: crosshair;
+}
+.default {
+    cursor: default;
+}
+.e-resize {
+    cursor: e-resize;
+}
+.grab {
+    cursor: grab;
+}
+.grbbing{
+    cursor: grabbing;
+}
+.help {
+    cursor: help;
+}
+.move {
+    cursor: move;
+}
+.url {
+    cursor: auto;
+}
+.w-resize {
+    cursor: w-resize;
+}
+.wait {
+    cursor: wait;
+}
+.zoom-in {
+    cursor: zoom-in;
+}
+.zoom-out {
+    cursor: zoom-out;
+}
