@@ -1,0 +1,50 @@
+span{
+    color: orangered;
+    font-size: xx-large;
+}
+.paraOne{
+    background-color: burlywood;
+    height: 100px;
+    border: solid 2px;
+    border-radius: 25px;
+    overflow: visible;
+    margin: 50px;
+    width: 700px;
+}
+.paraTwo{
+    background-color: burlywood;
+    height: 100px;
+    border: solid 2px;
+    border-radius: 25px;
+    overflow: hidden;
+    margin: 50px;
+    width: 700px;
+}
+.paraThree{
+    background-color: burlywood;
+    height: 100px;
+    border: solid 2px;
+    border-radius: 25px;
+    overflow: scroll;
+    margin: 50px;
+    width: 700px;
+}
+.paraFour{
+    background-color: burlywood;
+    height: 100px;
+    border: solid 2px;
+    border-radius: 25px;
+    overflow: auto;
+    margin: 50px;
+    width: 700px;
+}
+.paraFive{
+    background-color: burlywood;
+    height: 100px;
+    border: solid 2px;
+    border-radius: 25px;
+    overflow-x: scroll;
+    overflow-y: scroll;
+    margin: 50px;
+    width: 700px;
+}
