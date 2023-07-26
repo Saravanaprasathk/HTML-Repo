@@ -1,0 +1,44 @@
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2018/07/31/22/08/lion-3576045_1280.jpg);
+    background-size: cover;
+    
+}
+.paraOne{
+    display: flex;
+    color: white;
+    font-size: 50px;
+    margin-left: 100px;
+
+}
+.paraTwo{
+    font-size: 140px;
+    font-family: cursive;
+    color: white;
+    margin-left: 250px;
+}
+.paraThree{
+    font-size: 35px;
+    font-family: cursive ;
+    color: aliceblue;
+    position: absolute;
+    bottom: 21%;
+    left:20%;
+    
+}
+.submitOne{
+    border: none;
+    opacity: 0.5;
+    width: 200px;
+    padding: 15px;
+    margin-left: 290px;
+    color: black;
+    font-size: x-large;
+}
+.submitTwo{
+    border: none;
+    width: 200px;
+    padding: 15px;
+    margin-left: 10px;
+    color: black;
+    font-size: x-large;
+}
