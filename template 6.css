@@ -1,0 +1,97 @@
+.imageCLass{
+    background-image: url("https://images.pexels.com/photos/7693698/pexels-photo-7693698.jpeg?cs=srgb&dl=pexels-yan-krukau-7693698.jpg&fm=jpg");
+    width: 100vw;
+    height: 500px;
+    margin-top: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.classIcon{
+    position: fixed;
+    right: 28%;
+    color: rgb(0, 0, 0);
+    top: 0%;}
+.paraOne{
+    position: fixed;
+    right: 10%;
+    color: rgb(0, 0, 0);
+    top: 0%;
+}
+nav li a{
+    text-decoration: none;
+    color: rgba(70, 105, 105, 0.815);
+}
+li{ 
+     padding: 20px; 
+     list-style: none; 
+     display: inline-block;
+     
+} 
+.navigationBar{
+    position: absolute;
+    left: 150px;  
+    top:0;
+}
+a:hover{
+    border-bottom:2px solid yellow;
+}
+.classOne{
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    color: white;
+}
+h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.buttonOne{
+position: fixed;
+background-color: yellow;
+position: absolute;
+top: 500px;
+width: 90px;
+left: 40%;
+}
+.divOne{
+    height: 220px;
+    width: 220px;
+    color: white;
+    border: 2px solid ;
+    background-color: rgb(0, 255, 225);
+    
+}
+.divTwo{
+    height: 220px;
+    width: 220px;
+    color: white;
+    border: 2px solid ;
+    background-color: orangered;
+    
+}
+.divThree{
+    height: 220px;
+    width: 220px;
+    color: white;
+    border: 2px solid ;
+    background-color: rgb(21, 222, 18);
+    
+}
+.mainDiv{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    height: 90vh;
+    position: absolute;
+    top: 25%;
+    right: 27%;
+}
+.anotherDiv{
+    display: flex;
+    justify-content:center;
+    position: relative;
+    top: 131%;
+}
+.divFour,.divFive,.divSix{
+    width: 200px;
+}
